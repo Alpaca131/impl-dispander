@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dispander",
-    version="0.5.0",
+    name="impl-dispander",
+    version="1.0.0",
     author="1ntegrale9",
     author_email="1ntegrale9uation@gmail.com",
     description="Discord Message URL Expander",
